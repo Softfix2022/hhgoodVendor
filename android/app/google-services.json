@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899687120927",
+    "project_id": "hh-vendor",
+    "storage_bucket": "hh-vendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899687120927:android:2e1e4d046b704df7b3952a",
+        "android_client_info": {
+          "package_name": "com.classsicmeatVendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899687120927-udgfq72pm2uc18mem0coo8fica18qmn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKh_GBIP-9VgvrLI12MdFPmTpNWU2GqyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899687120927-udgfq72pm2uc18mem0coo8fica18qmn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
